@@ -3,3 +3,4 @@ print("不怎么好")
 print("还行")
 print("git")
 
+print("我的天")
